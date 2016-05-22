@@ -1,0 +1,28 @@
+name: BBW
+favicon: null
+layout_spectrum: 0.7930690320208669
+typography_spectrum: 0.001276751747354865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.05282511096447706
+  lightness: 0.17671980778686702
+  saturation: 0.13254852802492678
+  rhythmicContrast: 0.7059155995957553
+purpose: []
